@@ -50,6 +50,6 @@ This is a static website.
 
 ## Credits
 
-© 2026 Computer Application Technology, Lebogang Phasha (as shown in the footer of the pages).
+© 2026 Computer Science, Tech Panda (as shown in the footer of the pages).
 
 
